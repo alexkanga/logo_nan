@@ -4,28 +4,49 @@
 body {
     background-color:#FFF;
     display: flex;
-    
-    
 }
 .container {
-    background-color: #6a5ab3;
+    background-color: #8a76ea;
     height: 215px;
     width: 400px;
    margin: auto;
-   
    justify-content: center;
    align-items: center;
-    
-    
 }
 
 .first {
     background-color:#FFF;
     height: 150px;
     width: 150px;
-    
     margin: 30px auto;
-    /* transform: rotate(45deg); */
-    
+    transform: rotate(-135deg);
+}
+.second {
+    background-color:#8a76ea;
+    height: 125px;
+    width: 125px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.third {
+    background-color:#FFF;
+    height: 100px;
+    width: 100px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.fourth {
+    background-color:#8a76ea;
+    height: 75px;
+    width: 75px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.fifth {
+    background-color:#FFF;
+    height: 50px;
+    width: 50px;
+    margin-right: 25px;
+    margin-top: 25px;
 
 }
